@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-11-23T04:00:51.820Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="axrMenPVx09okKmiLGBh" version="20.5.3" type="github">
+<mxfile host="app.diagrams.net" modified="2022-11-23T04:17:57.720Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="-KY4YbRmzYNIVhcYYh3g" version="20.5.3" type="github">
   <diagram name="Page-1" id="dd472eb7-4b8b-5cd9-a60b-b15522922e76">
     <mxGraphModel dx="1968" dy="1300" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
       <root>
@@ -13,8 +13,8 @@
         <mxCell id="45236fa5f4b8e91a-1" value="Tomate: De América Central/Sur, posiblemente domesticado en México, y llevado a Europa y luego global.&amp;nbsp;" style="ellipse;whiteSpace=wrap;html=1;rounded=0;shadow=0;dashed=0;comic=0;fontFamily=Verdana;fontSize=13;fontColor=#0069D1;fillColor=#f5f5f5;strokeColor=#666666;" parent="1" vertex="1">
           <mxGeometry x="410" y="40" width="200" height="200" as="geometry" />
         </mxCell>
-        <mxCell id="45236fa5f4b8e91a-2" value="Papa:&amp;nbsp;" style="ellipse;whiteSpace=wrap;html=1;rounded=0;shadow=0;dashed=0;comic=0;fontFamily=Verdana;fontSize=15;fontColor=#0069D1;fillColor=#f5f5f5;strokeColor=#666666;" parent="1" vertex="1">
-          <mxGeometry x="430" y="500" width="200" height="200" as="geometry" />
+        <mxCell id="xvJGu8YhzxAPybP7-k_y-26" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=20;fontColor=#000000;" edge="1" parent="1" source="45236fa5f4b8e91a-2" target="xvJGu8YhzxAPybP7-k_y-25">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="xvJGu8YhzxAPybP7-k_y-16" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=11;" edge="1" parent="1" source="45236fa5f4b8e91a-3" target="xvJGu8YhzxAPybP7-k_y-15">
           <mxGeometry relative="1" as="geometry" />
@@ -26,7 +26,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="45236fa5f4b8e91a-4" value="Chile:&amp;nbsp;" style="ellipse;whiteSpace=wrap;html=1;rounded=0;shadow=0;dashed=0;comic=0;fontFamily=Verdana;fontSize=15;fontColor=#0069D1;fillColor=#f5f5f5;strokeColor=#666666;" parent="1" vertex="1">
-          <mxGeometry x="170" y="300" width="200" height="200" as="geometry" />
+          <mxGeometry x="150" y="293" width="200" height="200" as="geometry" />
         </mxCell>
         <mxCell id="45236fa5f4b8e91a-5" value="&lt;font color=&quot;#000000&quot; style=&quot;font-size: 11px;&quot;&gt;CHEF:&lt;br style=&quot;font-size: 11px;&quot;&gt;Manuel Alejandro Alanís Garza&lt;br style=&quot;font-size: 11px;&quot;&gt;&lt;br&gt;&lt;br&gt;&lt;br style=&quot;font-size: 11px;&quot;&gt;&lt;br style=&quot;font-size: 11px;&quot;&gt;&lt;br style=&quot;font-size: 11px;&quot;&gt;&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;rounded=0;shadow=0;dashed=0;comic=0;fontFamily=Verdana;fontSize=11;fontColor=#0069D1;fillColor=#f5f5f5;strokeColor=#666666;" parent="1" vertex="1">
           <mxGeometry x="240" y="130" width="200" height="200" as="geometry" />
@@ -40,16 +40,16 @@
         <mxCell id="xvJGu8YhzxAPybP7-k_y-18" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=11;" edge="1" parent="1" source="45236fa5f4b8e91a-7" target="xvJGu8YhzxAPybP7-k_y-17">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="45236fa5f4b8e91a-7" value="Cebolla" style="ellipse;whiteSpace=wrap;html=1;rounded=0;shadow=0;dashed=0;comic=0;fontFamily=Verdana;fontSize=15;fontColor=#0069D1;fillColor=#f5f5f5;strokeColor=#666666;" parent="1" vertex="1">
-          <mxGeometry x="600" y="460" width="200" height="200" as="geometry" />
+        <mxCell id="45236fa5f4b8e91a-7" value="&lt;font style=&quot;font-size: 12px;&quot;&gt;Cebolla: Se ha observado en antiguas civilizaciones en Asia, África, Europa, e incluso Norteamérica. No se sabe exactamente dónde inició&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;rounded=0;shadow=0;dashed=0;comic=0;fontFamily=Verdana;fontSize=15;fontColor=#0069D1;fillColor=#f5f5f5;strokeColor=#666666;" parent="1" vertex="1">
+          <mxGeometry x="620" y="460" width="200" height="200" as="geometry" />
         </mxCell>
         <mxCell id="xvJGu8YhzxAPybP7-k_y-22" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=10;" edge="1" parent="1" source="45236fa5f4b8e91a-8">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="140" y="550" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="45236fa5f4b8e91a-8" value="&lt;span style=&quot;font-size: 13px;&quot;&gt;Lechuga:&amp;nbsp;Se considera que viene de Egipto, pero se fue expandiendo hasta llegar a España. Y Colón lo trajo al continente americano.&amp;nbsp;&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;rounded=0;shadow=0;dashed=0;comic=0;fontFamily=Verdana;fontSize=15;fontColor=#0069D1;fillColor=#f5f5f5;strokeColor=#666666;" parent="1" vertex="1">
-          <mxGeometry x="260" y="450" width="200" height="200" as="geometry" />
+        <mxCell id="45236fa5f4b8e91a-8" value="&lt;font style=&quot;font-size: 12px;&quot;&gt;Lechuga:&amp;nbsp;Se considera que viene de Egipto, pero se fue expandiendo hasta llegar a España. Y Colón lo trajo al continente americano.&amp;nbsp;&lt;br&gt;&lt;br&gt;&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;rounded=0;shadow=0;dashed=0;comic=0;fontFamily=Verdana;fontSize=15;fontColor=#0069D1;fillColor=#f5f5f5;strokeColor=#666666;" parent="1" vertex="1">
+          <mxGeometry x="249" y="450" width="200" height="200" as="geometry" />
         </mxCell>
         <mxCell id="xvJGu8YhzxAPybP7-k_y-6" value="&lt;p style=&quot;line-height: 90%;&quot;&gt;&lt;font style=&quot;font-size: 10px;&quot;&gt;Britannica (s.f.). Tomato.&amp;nbsp;URL:&amp;nbsp;https://www.britannica.com/plant/tomato&amp;nbsp;&lt;/font&gt;&lt;/p&gt;" style="whiteSpace=wrap;html=1;fontSize=15;fontFamily=Verdana;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#0069D1;rounded=0;shadow=0;dashed=0;comic=0;verticalAlign=middle;" vertex="1" parent="1">
           <mxGeometry x="276.25" y="-40" width="467.5" height="40" as="geometry" />
@@ -60,17 +60,23 @@
         <mxCell id="xvJGu8YhzxAPybP7-k_y-15" value="" style="whiteSpace=wrap;html=1;fontSize=15;fontFamily=Verdana;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#0069D1;rounded=0;shadow=0;dashed=0;comic=0;" vertex="1" parent="1">
           <mxGeometry x="1010" y="360" width="360" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="xvJGu8YhzxAPybP7-k_y-17" value="" style="whiteSpace=wrap;html=1;fontSize=15;fontFamily=Verdana;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#0069D1;rounded=0;shadow=0;dashed=0;comic=0;" vertex="1" parent="1">
-          <mxGeometry x="920" y="530" width="400" height="60" as="geometry" />
+        <mxCell id="xvJGu8YhzxAPybP7-k_y-17" value="&lt;p style=&quot;line-height: 90%;&quot;&gt;&lt;font style=&quot;font-size: 10px;&quot;&gt;Gills Onions (s.f.). Onion History. URL: https://web.archive.org/web/20170601002900/http://www.gillsonions.com/history&amp;nbsp;&lt;/font&gt;&lt;/p&gt;" style="whiteSpace=wrap;html=1;fontSize=15;fontFamily=Verdana;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#0069D1;rounded=0;shadow=0;dashed=0;comic=0;" vertex="1" parent="1">
+          <mxGeometry x="920" y="535" width="460" height="50" as="geometry" />
         </mxCell>
         <mxCell id="xvJGu8YhzxAPybP7-k_y-19" value="" style="whiteSpace=wrap;html=1;fontSize=15;fontFamily=Verdana;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#0069D1;rounded=0;shadow=0;dashed=0;comic=0;" vertex="1" parent="1">
-          <mxGeometry x="-400" y="370" width="450" height="60" as="geometry" />
+          <mxGeometry x="-410" y="363" width="450" height="60" as="geometry" />
         </mxCell>
         <mxCell id="xvJGu8YhzxAPybP7-k_y-23" value="Boriss, H., Brunke, H. (2005). Commodity Profile: Lettuce. URL: https://web.archive.org/web/20120707193112/http://aic.ucdavis.edu/profiles/lettuce-2005.pdf" style="whiteSpace=wrap;html=1;fontSize=10;fontFamily=Verdana;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#0069D1;rounded=0;shadow=0;dashed=0;comic=0;" vertex="1" parent="1">
           <mxGeometry x="-330" y="520" width="470" height="60" as="geometry" />
         </mxCell>
         <mxCell id="xvJGu8YhzxAPybP7-k_y-24" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://creazilla-store.fra1.digitaloceanspaces.com/cliparts/35947/chef-cook-clipart-xl.png;" vertex="1" parent="1">
           <mxGeometry x="350" y="230" width="99" height="184.51" as="geometry" />
+        </mxCell>
+        <mxCell id="xvJGu8YhzxAPybP7-k_y-25" value="&lt;p style=&quot;line-height: 90%;&quot;&gt;&lt;font style=&quot;font-size: 10px;&quot;&gt;Spinetti, M. (1990). Breve Historia de la Bella Americana. URL: https://web.archive.org/web/20070107191053/http://todopapa.com.ar/pdf/brevehistoria.pdf&amp;nbsp;&lt;/font&gt;&lt;/p&gt;" style="whiteSpace=wrap;html=1;fontSize=15;fontFamily=Verdana;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#0069D1;rounded=0;shadow=0;dashed=0;comic=0;" vertex="1" parent="1">
+          <mxGeometry x="270" y="820" width="520" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="45236fa5f4b8e91a-2" value="&lt;font style=&quot;font-size: 12px;&quot;&gt;&lt;br&gt;Papa:&amp;nbsp;Inició en lo que ahora es Perú, fue llevado a Europa, y conforme se sabía más sobre ella, más se comerciaba y transportaba. Y regresó a América.&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;rounded=0;shadow=0;dashed=0;comic=0;fontFamily=Verdana;fontSize=15;fontColor=#0069D1;fillColor=#f5f5f5;strokeColor=#666666;" parent="1" vertex="1">
+          <mxGeometry x="430" y="500" width="200" height="200" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
